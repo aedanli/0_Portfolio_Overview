@@ -6,7 +6,7 @@ Hi! Thank you for taking the time to read through my portfolio. This portfolio c
 
 The aim is to show my interests and expertise in using a wide range of data analytics to tackle research-based and real-world problems. Furthermore, I aim to show that I can summarize almost a decade of research on the human mind succinctly via visualizations.
 
-Overall Link: https://aedanyue.files.wordpress.com/2023/08/overview_aedanli.pdf
+Overall Link: [https://aedanyue.files.wordpress.com/2023/08/overview_aedanli.pdf](https://aedanyue.files.wordpress.com/2023/08/overview_aedanli-1.pdf)
 
 # List of Projects in the Portfolio
 
